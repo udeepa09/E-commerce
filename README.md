@@ -78,6 +78,21 @@ project-root/
 
 ---
 
+ 📸 Results
+
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+### 📦 Orders Page
+![Orders](screenshots/orders.png)
+
+### 🛠️ Admin Panel
+![Admin](screenshots/admin-pannel.png)
+
+### 🛍️ Product Page
+![Product](screenshots/product.png)
+
+
 ⚙️ Installation & Setup
 
 1. Clone the repository
