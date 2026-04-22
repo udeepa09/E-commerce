@@ -82,11 +82,11 @@ project-root/
 
 1. Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/udeepa09/E-commerce.git
 
 2. Go to project folder
 
-cd your-repo-name
+cd E-commerce
 
 3. Install dependencies
 
