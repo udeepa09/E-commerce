@@ -83,14 +83,18 @@ project-root/
 ### 🏠 Home Page
 ![Home](screenshots/home.png)
 
-### 📦 Orders Page
-![Orders](screenshots/orders.png)
+### 🛍️ Product Page
+![Product](screenshots/product.png)
 
 ### 🛠️ Admin Panel
 ![Admin](screenshots/admin-pannel.png)
 
-### 🛍️ Product Page
-![Product](screenshots/product.png)
+
+### 📦 Orders Page
+![Orders](screenshots/orders.png)
+
+
+
 
 
 ⚙️ Installation & Setup
